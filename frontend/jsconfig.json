@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",         // 👈 Required
+    "paths": {
+      "@/*": ["src/*"]      // 👈 This maps @ to /src
+    }
+  }
+}

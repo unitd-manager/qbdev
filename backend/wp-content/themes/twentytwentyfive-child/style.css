@@ -1,0 +1,26 @@
+/*
+
+Theme Name:  Qbotica
+
+Theme URI:    #
+
+Description:  Child theme for the Twenty Twenty-Five theme.
+
+Author:       Qbotica
+
+Author URI:   https://qbotica.com
+
+Template:     twentytwentyfive
+
+Version:      1.0.0
+
+Text Domain:  #
+
+*/
+
+
+
+/* Import the parent theme's styles */
+
+@import url("../twentytwentyfive/style.css");
+
